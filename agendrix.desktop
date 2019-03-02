@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=Agendrix
+Exec=webapp-container --webappUrlPatterns=https?://app.agendrix.com/* https://app.agendrix.com
+Icon=logo.svg
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true
